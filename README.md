@@ -2,7 +2,7 @@
 Learning about the basics of Linux and how companies require Linux for their daily tasks.
 
 
-## The main parts of Linux.
+## The Main Parts Of Linux.
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/e9564593-20fa-4a56-b9ac-b00386f683a8" />
 
 
@@ -58,4 +58,20 @@ Reference Image :
 <br>
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b5dc8867-271c-4a74-bba3-f8516aa2e6cc" />
 
+
+Logging in to Linux System
+
+## Remote Login with no-GUI : 
+
+<img width="722" height="130" alt="image" src="https://github.com/user-attachments/assets/b9e79e73-6219-4907-a973-2fb053795cd3" />
+
+### VNC (Virtual Network Computing) :
+
+This is used to access Linux Desktop remotely for Linux Administration, similar to using a system in front of you. User must configure a VNC server, and configure a VNC viewer. It typically requires you to configure a VNC server on host machine, VNC viewer on client machine.
+
+EG : Using on a local network using SSH tunnel.
+
+<img width="462" height="604" alt="image" src="https://github.com/user-attachments/assets/b1d23066-d6ba-425f-9f38-6e272340d5a3" />
+
+### RDP (Remote Desktop Connection) :
 
